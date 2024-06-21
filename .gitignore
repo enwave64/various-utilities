@@ -1,0 +1,19 @@
+*.conf
+*.json
+*.log
+*.svg
+*.zip
+*.vscode
+*.suo
+
+archive/
+build
+coverage
+dist
+node_modules
+
+.env.local
+.env.*.local
+
+# handy simlinks in root dir
+/*.sh
